@@ -9,4 +9,5 @@ To run the script and print to a `.txt` file:
 Easy review of output:
 
 `cat out.txt | grep REGISTERED`
+
 `cat out.txt | grep AVAILABLE`
